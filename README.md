@@ -4,6 +4,9 @@ A prototype implementation of double click confirmation in Angular using RxJS. T
 In this blog post I mentioned why I feel confirmation dialogs are bad UX and more details on new implementation.
 https://maravindblog.wordpress.com/2020/07/26/ux-case-study-confirmation-dialogs/
 
+## Dependencies
+- npm i @popperjs/core  
+
 ## Use
 
 ```
